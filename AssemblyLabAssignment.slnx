@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AssemblyLabAssignment/AssemblyLabAssignment.vcxproj" Id="221fd4b8-b354-453e-bf00-5f198940b119">
+    <Platform Solution="Debug|x64" Project="Win32" />
+  </Project>
+</Solution>
