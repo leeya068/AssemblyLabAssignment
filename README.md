@@ -82,7 +82,5 @@ Receives an integer between 0 and 100 and returns the corresponding letter grade
 ## Author
 
 **Aleeya Nazirah Jamil**
-**Occurrence 13**
-**Semester 2, Year 1 25/26**
 
 Computer Systems and Network student passionate about software development, computer architecture, and low-level programming.
